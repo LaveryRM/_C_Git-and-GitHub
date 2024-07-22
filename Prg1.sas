@@ -1,6 +1,6 @@
 Data class;
 Set class;
-Run;[D[D[D[C[C[C
+Run;
 Proc Print; run;
 Proc means;
 run;
